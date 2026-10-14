@@ -1,0 +1,12 @@
+[
+    {
+        "expense_id": "EXP-001",
+        "date": "2026-10-14",
+        "category": "food",
+        "amount": 500.0,
+        "tags": [
+            "tea",
+            "lunch"
+        ]
+    }
+]
